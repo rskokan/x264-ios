@@ -1,0 +1,4 @@
+Another variation of the x264 (http://www.videolan.org/developers/x264.html) build script written by Gabriel Handford (https://github.com/gabriel/ffmpeg-iphone-build) and modified by Roderick Buenviaje.
+
+Works fine in July 2012, Mac OS X Lion 10.7.4, Xcode 4.3.2, gcc version 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.9.00).
+
